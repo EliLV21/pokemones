@@ -1,8 +1,11 @@
-.container{
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
 .imagenFondoBarra{
   width: 100%;
+}
+.imagenesPokemones{
+  width: 50%;
+}
+.contenidoPokemones{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
